@@ -11,7 +11,7 @@ u8g2有提供取字教學，也有幾個.bdf中文字型如/tools/font/bdf中的
 
 根據本人使用習慣改成python，得到Jeffrey大的同意在此分享，希望可以幫助大家
 
-P.S. 本有只有用WINDOWS，不確定其他系統是不是可以用bdfconv，如果不能應該也可以
+P.S. 本有只有用WINDOWS，不確定其他系統是不是可以用bdfconv，如果不能應該也可以生成的chinesemap.map另作下游處理?
 
 
 
